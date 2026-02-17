@@ -33,6 +33,8 @@ To generate synthetic Gaussian data and fit a Probability Density Function (PDF)
 - Kurtosis ≈ 0  
 - Distribution: Approximately Gaussian  
 
+![PDF Fitting Plot](output_plot.png)
+
 ---
 
 ## Conclusion
