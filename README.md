@@ -1,4 +1,4 @@
-# Learning Probability Density Functions using 102303580-Parameterized Non-Linear Model
+# Learning Probability Density Functions using 102303568-Parameterized Non-Linear Model
 
 A Python implementation for learning probability density function parameters from transformed air quality data using Maximum Likelihood Estimation (MLE).
 
@@ -40,7 +40,7 @@ z = Tr(x) = x + ar·sin(br·x)
 Where:
 - `ar = 0.05 × (r mod 7)`
 - `br = 0.3 × (r mod 5 + 1)`
-- `r` = University Roll Number (102317200 in this implementation)
+- `r` = University Roll Number (102303568 in this implementation)
 
 **Calculated Parameters**:
 - ar = 0.30
@@ -124,4 +124,4 @@ This project demonstrates:
 
 ## 👨‍🎓 Roll Number
 
-**102303580**
+**102303568**
